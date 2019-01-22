@@ -1,4 +1,4 @@
-#Issac Kim
+#Issac Kim\n
 #661773259
 
 ##c. Reading Assignments
@@ -56,4 +56,4 @@ connect the rest of the student body to Greek life. I think that this would be
 an interesting project for me to look into because I am a part of the Greek
 community and am an active member of my fraternity's rush committee. Also, as
 someone who is taking part of the Open Software course, I think that this project
-could be something I would want to be a part of now or in the future. 
+could be something I would want to be a part of now or in the future.
