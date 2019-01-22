@@ -1,7 +1,7 @@
-#Issac Kim\n
-#661773259
+# Issac Kim<br/>
+# 661773259
 
-##c. Reading Assignments
+## c. Reading Assignments
 2.
 - Break down the response into sections of information so that it is easier
 for the person requiring help to digest, rather than one big chunk of
@@ -24,10 +24,10 @@ control in the case that either group infringes on the other. So, we should be
 extra careful, especially since we may never know who may take and use our
 software.
 
-##d. Linux
+## d. Linux
 ![grep](images/grep.png)
 
-##e. Regex
+## e. Regex
 2.
 ### RegexOne problems
 ![RegexOne1](images/regex1.png)
@@ -48,7 +48,7 @@ software.
 ##f. Blockly
 ![blockly](images/blockly.png)
 
-##g. Reflection
+## g. Reflection
 Looking through the RCOS projects lists, one project that I found interesting
 is the RushMe project that focuses on Greek life. The description of the project
 says that the point of the project is to assist Greeks during rush and to
