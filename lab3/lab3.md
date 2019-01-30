@@ -2,7 +2,7 @@
 
 # Part 0 (Documentation)
 Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
-![part0] (part1.png)
+![part0](lab3_tex.png)
 
 
 # Part 1
@@ -71,7 +71,7 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 ### Differences with GitStats:
 - Less lines of code
 - More contributors
-![gourceSnap] (MxMGource.png)
+![gourceSnap](MxMGource.png)
 
 ### Current Branches:
 - master
@@ -97,7 +97,7 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 ### Differences with GitStats:
 - Less lines of code 33680 instead of 33839
 - More contributors at 60 instead of 42
-![gourceSnap] (ObserServer.png)
+![gourceSnap](ObserServer.png)
 
 # Observatory Client
 ### Contributors: 10
@@ -119,7 +119,7 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 ### Differences with GitStats:
 - Less lines of code 19918 instead of 19951
 - More contributors at 13 instead of 10
-![gourceSnap] (ObserClient.png)
+![gourceSnap](ObserClient.png)
 
 # Open source Coding Community
 ### Contributors: Jake-billings, eagraf, koreanwglasses, mdfalkow
