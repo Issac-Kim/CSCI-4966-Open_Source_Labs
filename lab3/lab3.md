@@ -30,20 +30,6 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 - More contributors
 - https://youtu.be/tFUC57hAZsc
 
-# Observatory Server
-### Contributors: 42
-### Lines of code: 33839
-### First Commit:
-
-> Author: Aaron Gunderson <airgunde@gmail.com>
-> Date:   Mon Dec 8 21:45:33 2014 -0500
-> Message: Initial Commit
-
-### Last Commit:
-> Author: Alexander Schwartzberg <aekschwartzberg@gmail.com>
-> Date:   Sat Oct 6 12:26:50 2018 -0400
-> Message: Sponsors + meeting times & presentation schedule point to handbook
-
 # MxM
 ### Contributors: 5
 ### Lines of code: 39059
@@ -72,6 +58,20 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 - Less lines of code
 - More contributors
 ![gourceSnap](MxMGource.png)
+
+# Observatory Server
+### Contributors: 42
+### Lines of code: 33839
+### First Commit:
+
+> Author: Aaron Gunderson <airgunde@gmail.com>
+> Date:   Mon Dec 8 21:45:33 2014 -0500
+> Message: Initial Commit
+
+### Last Commit:
+> Author: Alexander Schwartzberg <aekschwartzberg@gmail.com>
+> Date:   Sat Oct 6 12:26:50 2018 -0400
+> Message: Sponsors + meeting times & presentation schedule point to handbook
 
 ### Current Branches:
 - master
@@ -143,4 +143,4 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 - More contributors
 - https://youtu.be/xn01Tphknjc
 
-# Part 1
+# Part 2
