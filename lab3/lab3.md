@@ -57,7 +57,7 @@ Link to wiki: https://github.com/Issac-Kim/CSCI-4966-Open_Source_Labs/wiki
 ### Differences with GitStats:
 - Less lines of code
 - More contributors
-![gourceSnap](MxMGource.png)
+![gourceSnap](MxMgource.PNG)
 
 # Observatory Server
 ### Contributors: 42
