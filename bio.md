@@ -1,4 +1,4 @@
-## Name: Issac Kim
+# Name: Issac Kim
 ### Email: kimi6@rpi.edu
 ### Github Acc: Issac-Kim
 ### Mattermost Handle: issachkim
