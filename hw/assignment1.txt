@@ -1,0 +1,163 @@
+Issac Kim (kimi6)
+661773259
+
+Catan AI (https://github.com/justinchen673/Catan-AI |
+https://rcos.io/projects/justinchen673/catan-ai/profile)
++------------------------+-------+-------------------------------------------+
+| Evaluation Factor      | Level | Evaluation Data                           |
++------------------------+-------+-------------------------------------------+
+| Licensing              | 2     | This project is using the MIT license.    |
++------------------------+-------+-------------------------------------------+
+| Language               | 2     | This project is using Python3 as the      |
+|                        |       | language. For me, Python is the language  |
+|                        |       | that I am most comfortable with along     |
+|                        |       | with Java.                                |
++------------------------+-------+-------------------------------------------+
+| Level of Activity      | 2     | This project only had the last quarter    |
+|                        |       | active, but I gave it a 2 because of the  |
+|                        |       | fact that it was only made in the last    |
+|                        |       | month. And in the time frame of the       |
+|                        |       | project being alive, it has had frequent  |
+|                        |       | contributions.                            |
++------------------------+-------+-------------------------------------------+
+| Number of Contributors | 1     | There are only 3 members in this project. |
+|                        |       | While, I would prefer a smaller group, I  |
+|                        |       | think that 3 members is still on the      |
+|                        |       | smaller side.                             |
++------------------------+-------+-------------------------------------------+
+| Project Size           | 1     | As the project is newer, there are less   |
+|                        |       | than the number that foss2serve has       |
+|                        |       | given. But, in the time frame that the    |
+|                        |       | project has being worked on, it has a     |
+|                        |       | reasonable number of lines; however, it   |
+|                        |       | could be bigger. 2953 lines               |
++------------------------+-------+-------------------------------------------+
+| Issue Tracker          | 0     | The issue tracker has not been used.      |
++------------------------+-------+-------------------------------------------+
+| New Contributor        | 0     | There is no file that explains how a new  |
+|                        |       | contributor can begin nor does it have    |
+|                        |       | anything in README.                       |
++------------------------+-------+-------------------------------------------+
+| Community Norms        | 1     | There are no signs of poor behavior, but  |
+|                        |       | there is no code of conduct.              |
++------------------------+-------+-------------------------------------------+
+| User Base              | 1     | There is no current user base based on    |
+|                        |       | pull requests or issues.                 |
++------------------------+-------+-------------------------------------------+
+| Total Score            | 9     |                                           |
++------------------------+-------+-------------------------------------------+
+
+YACS (https://github.com/YACS-RCOS/yacs |
+https://rcos.io/projects/yacs-rcos/yacs/profile)
++------------------------+-------+-------------------------------------------+
+| Evaluation Factor      | Level | Evaluation Data                           |
++------------------------+-------+-------------------------------------------+
+| Licensing              | 2     | This project is using the GNU Affero      |
+|                        |       | General Public License.                   |
++------------------------+-------+-------------------------------------------+
+| Language               | 1     | This project uses Ruby on Rails for the   |
+|                        |       | backend of the webpage. I chose to put 1  |
+|                        |       | because I am comfortable participating in |
+|                        |       | a project in web development. However, I  |
+|                        |       | have never worked with Ruby on Rails. I   |
+|                        |       | would be more comfortable on the frontend |
+|                        |       | and not as much on the backend.           |
++------------------------+-------+-------------------------------------------+
+| Level of Activity      | 2     | This project has been around for a couple |
+|                        |       | of years and has had active contributions |
+|                        |       | in all quarters.                          |
++------------------------+-------+-------------------------------------------+
+| Number of Contributors | 2     | There are a lot of contributors for this  |
+|                        |       | project.                                  |
++------------------------+-------+-------------------------------------------+
+| Project Size           | 2     | This project has been maintained for a    |
+|                        |       | while now and has a fairly large code     |
+|                        |       | base. 41381 lines.                        |
++------------------------+-------+-------------------------------------------+
+| Issue Tracker          | 2     | The issues tracker is active and there    |
+|                        |       | are responses to the issues.              |
++------------------------+-------+-------------------------------------------+
+| New Contributor        | 1     | There is a statement that explains to     |
+|                        |       | new contributors how to begin working on  |
+|                        |       | the project. However, itis fairly short   |
+|                        |       | and only explains to any new contributor  |
+|                        |       | that they need to fork the project and    |
+|                        |       | nothing else.                             |
++------------------------+-------+-------------------------------------------+
+| Community Norms        | 2     | There is a document for a code of         |
+|                        |       | conduct that is well documented. Comments |
+|                        |       | throughout the issues tracker seem to be  |
+|                        |       | desired conduct as well.                  |
++------------------------+-------+-------------------------------------------+
+| User Base              | 2     | YACS is used by all, if not most of the   |
+|                        |       | students at RPI to schedule their         |
+|                        |       | semester courses.                         |
++------------------------+-------+-------------------------------------------+
+| Total Score            | 16    |                                           |
++------------------------+-------+-------------------------------------------+
+
+Intra (https://github.com/Jigsaw-Code/Intra |
+https://opensource.google.com/projects/intra)
++------------------------+-------+-------------------------------------------+
+| Evaluation Factor      | Level | Evaluation Data                           |
++------------------------+-------+-------------------------------------------+
+| Licensing              | 2     | This project is using the Apache License. |
++------------------------+-------+-------------------------------------------+
+| Language               | 1     | Although this project is in a language I  |
+|                        |       | am comfortable with, Java. It is a        |
+|                        |       | project that mostly deals with Android    |
+|                        |       | development. I have never worked with     |
+|                        |       | mobile development. So, even though I am  |
+|                        |       | comfortable with the language, I am not   |
+|                        |       | well informed in the type of development  |
+|                        |       | that the project focuses on.              |
++------------------------+-------+-------------------------------------------+
+| Level of Activity      | 1     | This project has been more recently made. |
+|                        |       | Similar to the Catan AI project, it has   |
+|                        |       | not been made for the entirety of the     |
+|                        |       | past year. However, there have been time  |
+|                        |       | frames where there has been no activity,  |
+|                        |       | which for the longest time, lasted more   |
+|                        |       | than a month.                             |
++------------------------+-------+-------------------------------------------+
+| Number of Contributors | 1     | There are only 3 contributors to this     |
+|                        |       | project.                                  |
++------------------------+-------+-------------------------------------------+
+| Project Size           | 2     | This project has a fairly large codebase. |
+|                        |       | However, this might also be because of    |
+|                        |       | libraries that were used. 319398 lines.   |
++------------------------+-------+-------------------------------------------+
+| Issue Tracker          | 2     | The issues tracker is active and there    |
+|                        |       | are responses to the issues.              |
++------------------------+-------+-------------------------------------------+
+| New Contributor        | 2     | There is a guideline for new contributors |
+|                        |       | and an explanation on how the             |
+|                        |       | contributions will be added to the        |
+|                        |       | project in a licensing standpoint.        |
++------------------------+-------+-------------------------------------------+
+| Community Norms        | 1     | There are no signs of undesirable         |
+|                        |       | behavior. But, there is documentation     |
+|                        |       | on community guidelines.                  |
++------------------------+-------+-------------------------------------------+
+| User Base              | 1     | There is nothing that shows a userbase.   |
+|                        |       | But, it does have a clear use case.       |
++------------------------+-------+-------------------------------------------+
+| Total Score            | 13    |                                           |
++------------------------+-------+-------------------------------------------+
+
+In-depth Analysis on Catan AI:
+My analysis is on the Catan AI project. I gave it a total score of 9. However, the lower score can be reasoned because it is a fairly new project that was made in the past two months for RCOS. To further explain my scoring on this project:
+Licensing: I scored this at 2 because the project does have a MIT license.
+Language: I gave this a score of 2. As the table says, python is one of the languages I am most comfortable with. I have worked in python to teach high school students and have worked with python flask for web development in the past, so it has become the language that I am most comfortable with. Furthermore, Catan is a game that I have played and enjoy to play, so I think that the project would be easier for me to come into because I am already acquainted with the topic of the project.
+Level of Activity: This project is fairly new. It was only made in the past month or two. While FOSS says that there should be activity in the past 4 quarters, I thought this project still deserved a 2 because it has been active in the time that it has been alive. Obviously, there has not been activity in all 4 quarters, but contributions have been made frequently and by all of the current contributors.
+Number of contributors: This project has 3 contributors at the moment. I personally would prefer working in a smaller group. However, I think that 3 members is still on the smaller side. However, since it is not only 1 member working on everything, I thought that the number of contributors was reasonable and deserved at least one point. Especially, since the project has only been recently made.
+Project Size: This project has 2953 lines. I thought this project was on the smaller side. However, given the timeframe of the project, it has a reasonable portion of the code base written. After running the code, I found that the project currently has the gameplay of Catan finished. It has the board made and allows the game to be played through the terminal if there is more than 1 person. At this point, it does not have the AI portion of the game finished. Therefore, I gave this a score of 1.
+Issue Tracker: I gave this a 0 because there are no posts in the issues tracker.
+New Contributor: I gave this a score of 0 because there is no file or section in the RCOS website that explains how to begin contributing to the project. Furthermore, there does not seem to be any new contributors coming into the project other than the original 3 members who have been working on the project since the beginning of it.
+Community Norms: I gave this a score of 1. This is because there are no signs of bad conduct. There was actually no interaction that can be seen to the community through the Github repository. However, there is also no file or section that explains what the community standards are for this project.
+User Base: I gave this a score of 1. While there seems to be no community base at the moment, the project has a clear user base in mind. The project is a Catan game with the implementation of AI to play the game. I thought that this deserved a point because it is clear that the user base should be for people who want to play Catan, either by themself against AI or with other players. Furthermore, the ideal contributor is also understood to be someone to work on AI for playing Catan.
+
+The technologies used for this project was python. The python app creates a board in ascii text and outputs it onto the command line or terminal. There were no other technologies used.
+The significance of this project is an application to play the board game Catan in which the user can play either against AI or against other players. The significance can further be explained through the efficiency and difficulty of the AI created.
+This project is appealing to me because of the fact that I already enjoy the game of Catan. It is one of my favorite board games; therefore, I already have interest in the topic of the project. However, I have never developed an AI, so I think that a project could be an interesting way of learning AI. The topic of AI is something that has interested me and is something I would like to work in at least to see if I enjoy it or not. And I think that working on an AI on a game I enjoy would be an appealing method of doing so.
+I did not originally know the people working on this project, but on further inspect, I realized that the contributors were people I am close with personally. Because of this, I think it would be easy and fun to work on a project with them. Since the project idea is a game we all enjoy and I am acquainted with the group already, I think it would be easy for me to begin working with the group. Furthermore, I have worked on a project with one of the members in the past and enjoyed the process of working with him.
