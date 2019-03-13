@@ -39,7 +39,6 @@ import networkx as nx
 def generate_graph(words):
     G = nx.Graph(name="words")
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
-
     def edit_distance_one(word):
         for i in range(len(word)):
             left, c, right = word[0:i], word[i], word[i + 1:]
